@@ -37,9 +37,11 @@
 | 🏛️ Repository | ⚡ Language | 🎯 Mission |
 |:---|:---|:---|
 | [**Simorgh-Flight-Software**](https://github.com/linerfan5114/Simorgh-Flight-Software) | C | Bare-Metal Flight Software for LEO Satellites |
+| [**QuantumCommRelay**](https://github.com/linerfan5114/QuantumCommRelay) | Python | Quantum Key Distribution Network for Satellite Constellations |
 | [**SpaceGreenhouse**](https://github.com/linerfan5114/SpaceGreenhouse) | Python | AI-Powered Autonomous Farming for Space |
 | [**StarConsensus**](https://github.com/linerfan5114/StarConsensus) | Ada | Byzantine Consensus for Satellite Constellations |
 | [**Web-Application-Firewall**](https://github.com/linerfan5114/Web-Application-Firewall) | Go | High-Performance Layer 7 Firewall |
+| [**Computer-Price-Predictor**](https://github.com/linerfan5114/Computer-Price-Predictor-whit-ai) | Python | ML Model for Hardware Price Prediction |
 
 ---
 
