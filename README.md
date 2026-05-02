@@ -2,7 +2,7 @@
 
 # 👑 𝐄𝐑𝐅𝐀𝐍 | @𝐥𝐢𝐧𝐞𝐫𝐟𝐚𝐧𝟓𝟏𝟏𝟒
 
-### 16 | 🇮🇷 Iran | 🚀 Aerospace & Low-Level Developer
+### 16 | Iran | 🚀 Aerospace & Low-Level Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/linerfan5114?style=social)](https://github.com/linerfan5114)
 [![Stars](https://img.shields.io/github/stars/linerfan5114?style=social)](https://github.com/linerfan5114)
