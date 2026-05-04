@@ -30,18 +30,23 @@
 | **cFS** | [#977](https://github.com/nasa/cFS/pull/977) | Out-of-Bounds Read (OOB) |
 | **Open MCT** | [#8314](https://github.com/nasa/openmct/pull/8314) | CouchDB Changes Feed Replay |
 
+| 🛡️ Security Issue | 🐛 Vulnerability | 📊 Severity |
+|:---|:---|:---|
+| [cFS #985](https://github.com/nasa/cFS/issues/985) | CI_LAB Missing Lower-Bound Validation | Critical |
+| [cFS #986](https://github.com/nasa/cFS/issues/986) | ES SEND_HK Missing Length Validation | High |
+| [cFS #987](https://github.com/nasa/cFS/issues/987) | EVS SEND_HK Missing Length Validation | High |
 ---
 
 ## 🔥 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 
 | 🏛️ Repository | ⚡ Language | 🎯 Mission |
 |:---|:---|:---|
+| [**Wandering Being**](https://github.com/linerfan5114/wandering-being) | Python | Self-Aware Artificial Entity — 100K Neurons + STDP |
 | [**Simorgh-Flight-Software**](https://github.com/linerfan5114/Simorgh-Flight-Software) | C | Bare-Metal Flight Software for LEO Satellites |
-| [**QuantumCommRelay**](https://github.com/linerfan5114/QuantumCommRelay) | Python | Quantum Key Distribution Network for Satellite Constellations |
+| [**QuantumCommRelay**](https://github.com/linerfan5114/QuantumCommRelay) | Python | Quantum Key Distribution for Satellite Constellations |
 | [**SpaceGreenhouse**](https://github.com/linerfan5114/SpaceGreenhouse) | Python | AI-Powered Autonomous Farming for Space |
 | [**StarConsensus**](https://github.com/linerfan5114/StarConsensus) | Ada | Byzantine Consensus for Satellite Constellations |
-| [**Web-Application-Firewall**](https://github.com/linerfan5114/Web-Application-Firewall) | Go | High-Performance Layer 7 Firewall |
-| [**Computer-Price-Predictor**](https://github.com/linerfan5114/Computer-Price-Predictor-whit-ai) | Python | ML Model for Hardware Price Prediction |
+| [**Web-Application-Firewall**](https://github.com/linerfan5114/Web-Application-Firewall) | Go | High-Performance Layer 7 Firewall ||
 
 ---
 
