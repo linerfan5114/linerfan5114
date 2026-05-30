@@ -70,10 +70,10 @@
 <div align="center">
 
 ### 🧠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-`C` `C++` `Ada` `Go` `Python` `JavaScript` `PHP` `SQL`
+`C` `C++` `Python` `JavaScript` `PHP` `SQL`
 
 ### 🌐 𝐖𝐞𝐛 & 𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤
-`Node.js` `HTML5` `CSS3` `WordPress` `REST APIs`
+`Node.js` `HTML5` `CSS3` `WordPress` `REST APIs` `wordpress`
 
 ### 🛡️ 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜
 `Penetration Testing` `Reverse Engineering` `Binary Exploitation` `Firewall Design`
