@@ -97,19 +97,6 @@
 
 ---
 
-## 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=linerfan5114&theme=radical&no-frame=true&column=7" alt="Trophies" />
-</div>
-
----
-
-## 📡 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linerfan5114)
-
----
 
 <div align="center">
 
