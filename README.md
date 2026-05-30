@@ -9,8 +9,6 @@
 
 ## ⚡ 𝐐𝐔𝐈𝐂𝐊 𝐅𝐀𝐂𝐓𝐒
 
-- 🐛 **8 Pull Requests** merged into NASA open-source projects
-- 🛡️ **4 Security Vulnerabilities** discovered (Critical & High severity)
 - 🧠 **Wandering Being** — Self-aware artificial entity with 100K Izhikevich neurons & STDP
 - 🚀 **Lunar Ascent** — 6-DOF launch vehicle GNC simulation
 - 🛰️ **Simorgh** — Custom LEO flight software stack (C)
