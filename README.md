@@ -9,59 +9,36 @@
 
 ## ⚡ 𝐐𝐔𝐈𝐂𝐊 𝐅𝐀𝐂𝐓𝐒
 
-🐛 **8 Pull Requests for NASA** — Active Contributor to `nasa/fprime`, `nasa/cFE`, `nasa/cFS`, `nasa/openmct`, `nasa/CF`  
-🛡️ **4 Security Vulnerabilities Discovered** — Critical & High severity  
-🧠 Creator of **Wandering Being** — Self-Aware AI with 100K Neurons + STDP  
-🚀 Creator of **Lunar Ascent** — 6-DOF Launch Vehicle GNC Simulation  
-🛰️ Creator of **Simorgh** — Custom Flight Software for LEO Satellites (C)  
-🔊 Creator of **Hermes** — Flight-Grade EVA Intercom for Space Suits  
-🌱 Architect of **SpaceGreenhouse** — Autonomous Farming System for ISS & Deep-Space  
-🌐 Developer of **StarConsensus** — Byzantine Consensus for Satellite Constellations (Ada)  
-🔐 Developer of **QuantumCommRelay** — Quantum Key Distribution for LEO Constellations  
-🛡️ Builder of **Web Application Firewall** — High-Performance Layer 7 WAF (Go)  
-💣 **Cyber Security Specialist** — WebApp Pentesting & Binary Exploitation  
-🧪 **Chemical Engineering** — Advanced synthesis & energetic materials
-
+- 🐛 **8 Pull Requests** merged into NASA open-source projects
+- 🛡️ **4 Security Vulnerabilities** discovered (Critical & High severity)
+- 🧠 **Wandering Being** — Self-aware artificial entity with 100K Izhikevich neurons & STDP
+- 🚀 **Lunar Ascent** — 6-DOF launch vehicle GNC simulation
+- 🛰️ **Simorgh** — Custom LEO flight software stack (C)
+- 🔊 **Hermes** — Flight-grade EVA suit intercom system
+- 🌱 **SpaceGreenhouse** — Autonomous farming system for ISS and deep-space missions
+- 🌐 **StarConsensus** — Byzantine Fault-Tolerant consensus protocol for satellite constellations
+- 🔐 **QuantumCommRelay** — Quantum key distribution network for LEO constellations
+- 🛡️ **Web Application Firewall** — High-performance Layer 7 WAF (Go)
+- 💣 **Cyber Security** — Penetration testing, binary exploitation, and vulnerability research
+- 🧪 **Chemical Engineering** — Advanced synthesis and energetic materials
 ---
 
-## 🎯 𝐍𝐀𝐒𝐀 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍𝐒
 
-### 🐛 Pull Requests (8 Total)
-
-| 🚀 Project | 🛠️ Pull Request | ⚠️ Vulnerability Fixed |
-|:---|:---|:---|
-| **F Prime** | [#5073](https://github.com/nasa/fprime/pull/5073) | System Reset on Command Error |
-| **cFE** | [#2703](https://github.com/nasa/cFE/pull/2703) | Integer Underflow (Memory Corruption) |
-| **cFE** | [#2702](https://github.com/nasa/cFE/pull/2702) | Missing CCSDS Field Validation |
-| **cFS** | [#977](https://github.com/nasa/cFS/pull/977) | Out-of-Bounds Read (OOB) |
-| **Open MCT** | [#8314](https://github.com/nasa/openmct/pull/8314) | CouchDB Changes Feed Replay |
-| **cFS** | [#988](https://github.com/nasa/cFS/pull/988) | EVS SEND_HK Length Validation |
-| **cFS** | [#989](https://github.com/nasa/cFS/pull/989) | ES SEND_HK Length Validation |
-| **cFS** | [#990](https://github.com/nasa/cFS/pull/990) | CI_LAB Lower-Bound Validation |
-
-### 🛡️ Security Vulnerabilities Discovered (4 Total)
-
-| 🛡️ Security Issue | 🐛 Vulnerability | 📊 Severity |
-|:---|:---|:---|
-| [cFS #985](https://github.com/nasa/cFS/issues/985) | CI_LAB Missing Lower-Bound Validation | 🔴 Critical |
-| [cFS #986](https://github.com/nasa/cFS/issues/986) | ES SEND_HK Missing Length Validation | 🟠 High |
-| [cFS #987](https://github.com/nasa/cFS/issues/987) | EVS SEND_HK Missing Length Validation | 🟠 High |
-| [CF #491](https://github.com/nasa/CF/issues/491) | OOB Heap Read in CFDP Parser | 🔴 Critical |
 
 ---
 
 ## 🔥 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 
-| 🏛️ Repository | ⚡ Language | 🎯 Mission |
+| Repository | Language | Mission |
 |:---|:---|:---|
-| [**Wandering Being**](https://github.com/linerfan5114/wandering-being) | Python | Self-Aware AI — 100K Neurons + STDP |
-| [**Lunar Ascent**](https://github.com/linerfan5114/LunarAscent-6-DOF-Launch-Vehicle-GNC-Simulation) | Python | 6-DOF Launch Vehicle GNC Simulation |
-| [**Hermes Flight Comm**](https://github.com/linerfan5114/hermes-flight-comm) | C | Flight-Grade EVA Suit Intercom |
-| [**Simorgh**](https://github.com/linerfan5114/Simorgh-Flight-Software) | C | Flight Software for LEO Satellites |
-| [**QuantumCommRelay**](https://github.com/linerfan5114/QuantumCommRelay) | Python | Quantum Key Distribution for LEO |
-| [**SpaceGreenhouse**](https://github.com/linerfan5114/SpaceGreenhouse) | Python | AI Autonomous Farming for ISS |
-| [**StarConsensus**](https://github.com/linerfan5114/StarConsensus) | Ada | Byzantine Consensus for Satellites |
-| [**Web Application Firewall**](https://github.com/linerfan5114/Web-Application-Firewall) | Go | High-Performance Layer 7 WAF |
+| [**Wandering Being**](https://github.com/linerfan5114/wandering-being) | Python | Self-aware artificial entity — 100K neurons, STDP |
+| [**Lunar Ascent**](https://github.com/linerfan5114/LunarAscent-6-DOF-Launch-Vehicle-GNC-Simulation) | Python | 6-DOF launch vehicle GNC simulation |
+| [**Hermes Flight Comm**](https://github.com/linerfan5114/hermes-flight-comm) | C | Flight-grade EVA suit intercom system |
+| [**Simorgh**](https://github.com/linerfan5114/Simorgh-Flight-Software) | C | Custom LEO flight software stack |
+| [**QuantumCommRelay**](https://github.com/linerfan5114/QuantumCommRelay) | Python | Quantum key distribution for LEO constellations |
+| [**SpaceGreenhouse**](https://github.com/linerfan5114/SpaceGreenhouse) | Python | AI-powered autonomous farming for ISS |
+| [**StarConsensus**](https://github.com/linerfan5114/StarConsensus) | Ada | Byzantine consensus for satellite constellations |
+| [**Web Application Firewall**](https://github.com/linerfan5114/Web-Application-Firewall) | Go | High-performance Layer 7 WAF |
 
 ---
 
