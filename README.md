@@ -1,81 +1,48 @@
-# 👑 𝐄𝐑𝐅𝐀𝐍 | @𝐥𝐢𝐧𝐞𝐫𝐟𝐚𝐧𝟓𝟏𝟏𝟒
+# Hi, I'm Erfan 👋
 
-### 16 | 🇮🇷 Iran | 🚀 Aerospace & Low-Level Developer
-[![GitHub followers](https://img.shields.io/github/followers/linerfan5114?style=social)](https://github.com/linerfan5114)
-[![Stars](https://img.shields.io/github/stars/linerfan5114?style=social)](https://github.com/linerfan5114)
+17-year-old developer from Tabriz, Iran, focused on aerospace software, systems programming, and cybersecurity. I build simulations and learning projects around spacecraft software, guidance systems, and network security — most of these are ongoing, self-directed projects rather than production systems.
 
----
-
-## ⚡ 𝐐𝐔𝐈𝐂𝐊 𝐅𝐀𝐂𝐓𝐒
-
-- 🧠 **Wandering Being** — Self-aware artificial entity with 100K Izhikevich neurons & STDP
-- 🚀 **Lunar Ascent** — 6-DOF launch vehicle GNC simulation
-- 🛰️ **Simorgh** — Custom LEO flight software stack (C)
-- 🔊 **Hermes** — Flight-grade EVA suit intercom system
-- 🌱 **SpaceGreenhouse** — Autonomous farming system for ISS and deep-space missions
-- 🌐 **StarConsensus** — Byzantine Fault-Tolerant consensus protocol for satellite constellations
-- 🔐 **QuantumCommRelay** — Quantum key distribution network for LEO constellations
-- 🛡️ **Web Application Firewall** — High-performance Layer 7 WAF (Go)
-- 💣 **Cyber Security** — Penetration testing, binary exploitation, and vulnerability research
-- 🧪 **Chemical Engineering** — Advanced synthesis and energetic materials
----
-
-
+- 🇮🇷 Based in Tabriz, Iran
+- 🚀 Interested in: flight software, GNC (guidance/navigation/control), embedded systems, and cybersecurity
+- 🌱 Currently learning: RTOS concepts, Ada, and satellite communication protocols (CCSDS)
+- 📫 Reach me on Telegram: [@er403url](https://t.me/er403url)
 
 ---
 
-## 🔥 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+## 🔧 Featured Projects
 
-| Repository | Language | Mission |
-|:---|:---|:---|
-| [**Wandering Being**](https://github.com/linerfan5114/wandering-being) | Python | Self-aware artificial entity — 100K neurons, STDP |
-| [**Lunar Ascent**](https://github.com/linerfan5114/LunarAscent-6-DOF-Launch-Vehicle-GNC-Simulation) | Python | 6-DOF launch vehicle GNC simulation |
-| [**Hermes Flight Comm**](https://github.com/linerfan5114/hermes-flight-comm) | C | Flight-grade EVA suit intercom system |
-| [**Simorgh**](https://github.com/linerfan5114/Simorgh-Flight-Software) | C | Custom LEO flight software stack |
-| [**QuantumCommRelay**](https://github.com/linerfan5114/QuantumCommRelay) | Python | Quantum key distribution for LEO constellations |
-| [**SpaceGreenhouse**](https://github.com/linerfan5114/SpaceGreenhouse) | Python | AI-powered autonomous farming for ISS |
-| [**StarConsensus**](https://github.com/linerfan5114/StarConsensus) | Ada | Byzantine consensus for satellite constellations |
-| [**Web Application Firewall**](https://github.com/linerfan5114/Web-Application-Firewall) | Go | High-performance Layer 7 WAF |
+| Project | Language | Description |
+|---|---|---|
+| [**Web Application Firewall**](https://github.com/linerfan5114/Web-Application-Firewall) | Go | A Layer 7 WAF with rate limiting, IP reputation, SQL injection/XSS filtering, and a custom rule engine. |
+| [**Simorgh Flight Software**](https://github.com/linerfan5114/Simorgh-Flight-Software) | C | A bare-metal flight software stack for small satellites, inspired by NASA's F Prime and cFE frameworks — command handling, telemetry, and CCSDS-style messaging. |
+| [**Lunar Ascent**](https://github.com/linerfan5114/LunarAscent-6-DOF-Launch-Vehicle-GNC-Simulation) | Python | A 6-DOF launch vehicle guidance/navigation/control simulation, built to learn the fundamentals of ascent trajectory modeling. |
+| [**StarConsensus**](https://github.com/linerfan5114/StarConsensus-A-Byzantine-resilient-real-time-consensus-protocol-for-LEO-satellite-constellations) | Ada | An experimental Byzantine fault-tolerant consensus protocol, exploring how satellite constellations could stay in sync despite node failures or GPS denial. |
+| [**QuantumCommRelay**](https://github.com/linerfan5114/QuantumCommRelay) | Python | An educational simulation of quantum key distribution (BB84 protocol) with entanglement swapping and decoherence effects. |
+| [**SpaceGreenhouse**](https://github.com/linerfan5114/SpaceGreenhouse) | Python | A concept project for autonomous plant monitoring using computer vision — disease detection and health tracking, aimed at long-duration space missions. |
+| [**Hermes Flight Comm**](https://github.com/linerfan5114/hermes-flight-comm) | C | A prototype intercom system concept for EVA suits. |
+| [**Wandering Being**](https://github.com/linerfan5114/wandering-being) | Python | An experiment with spiking neural networks (~100K neurons, STDP) exploring predictive processing — a research toy, not a claim of consciousness. |
 
----
-
-## ⚔️ 𝐀𝐑𝐒𝐄𝐍𝐀𝐋
-
-<div align="center">
-
-### 🧠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-`C` `C++` `Python` `JavaScript` `PHP` `SQL`
-
-### 🌐 𝐖𝐞𝐛 & 𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤
-`Node.js` `HTML5` `CSS3` `WordPress` `REST APIs` `wordpress`
-
-### 🛡️ 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜
-`Penetration Testing` `Reverse Engineering` `Binary Exploitation` `Firewall Design`
-
-### ⚙️ 𝐒𝐲𝐬𝐭𝐞𝐦𝐬
-`Linux` `RTOS` `Embedded` `Avionics` `MIL-STD-1553` `CCSDS`
-
-### 🧪 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
-`Chemical Engineering` `Energetic Materials` `6-DOF Simulation` `Predictive Processing` `STDP`
-
-</div>
+*Some of these are early-stage or exploratory — check individual repos for current status and README details.*
 
 ---
 
-## 📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
+## 🛠️ Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linerfan5114&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linerfan5114&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+**Languages:** C, C++, Python, JavaScript, PHP, SQL
+
+**Web / Fullstack:** Node.js, HTML5, CSS3, WordPress, REST APIs
+
+**Security:** Penetration testing basics, reverse engineering, binary exploitation, firewall/WAF design
+
+**Systems:** Linux, embedded systems fundamentals, avionics concepts, CCSDS protocols
 
 ---
 
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linerfan5114&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linerfan5114&theme=default&hide_border=true)
 
-### "The only way to predict the future is to build it."
+---
 
-### 🚀🇮🇷💙
-
-</div>
+🚀🇮🇷
