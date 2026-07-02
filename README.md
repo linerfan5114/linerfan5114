@@ -5,7 +5,7 @@
 - 🇮🇷 Based in Tabriz, Iran
 - 🚀 Interested in: flight software, GNC (guidance/navigation/control), embedded systems, and cybersecurity
 - 🌱 Currently learning: RTOS concepts, Ada, and satellite communication protocols (CCSDS)
-- 📫 Reach me on Telegram: [@er403url](https://t.me/er403url)
+- 📫 Reach me on Telegram: [@Kali_xu](https://t.me/Kali_xu)
 
 ---
 
