@@ -1,6 +1,6 @@
 # Hi, I'm Erfan 👋
 
-17-year-old developer from Tabriz, Iran, focused on aerospace software, systems programming, and cybersecurity. I build simulations and learning projects around spacecraft software, guidance systems, and network security — most of these are ongoing, self-directed projects rather than production systems.
+16-year-old developer from Tabriz, Iran, focused on aerospace software, systems programming, and cybersecurity. I build simulations and learning projects around spacecraft software, guidance systems, and network security — most of these are ongoing, self-directed projects rather than production systems.
 
 - 🇮🇷 Based in Tabriz, Iran
 - 🚀 Interested in: flight software, GNC (guidance/navigation/control), embedded systems, and cybersecurity
