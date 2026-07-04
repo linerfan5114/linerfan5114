@@ -9,19 +9,6 @@
 
 ---
 
-## 🔧 Featured Projects
-
-| Project | Language | Description |
-|---|---|---|
-| [**Web Application Firewall**](https://github.com/linerfan5114/Web-Application-Firewall) | Go | A Layer 7 WAF with rate limiting, IP reputation, SQL injection/XSS filtering, and a custom rule engine. |
-| [**Simorgh Flight Software**](https://github.com/linerfan5114/Simorgh-Flight-Software) | C | A bare-metal flight software stack for small satellites, inspired by NASA's F Prime and cFE frameworks — command handling, telemetry, and CCSDS-style messaging. |
-| [**Lunar Ascent**](https://github.com/linerfan5114/LunarAscent-6-DOF-Launch-Vehicle-GNC-Simulation) | Python | A 6-DOF launch vehicle guidance/navigation/control simulation, built to learn the fundamentals of ascent trajectory modeling. |
-| [**StarConsensus**](https://github.com/linerfan5114/StarConsensus-A-Byzantine-resilient-real-time-consensus-protocol-for-LEO-satellite-constellations) | Ada | An experimental Byzantine fault-tolerant consensus protocol, exploring how satellite constellations could stay in sync despite node failures or GPS denial. |
-| [**QuantumCommRelay**](https://github.com/linerfan5114/QuantumCommRelay) | Python | An educational simulation of quantum key distribution (BB84 protocol) with entanglement swapping and decoherence effects. |
-| [**SpaceGreenhouse**](https://github.com/linerfan5114/SpaceGreenhouse) | Python | A concept project for autonomous plant monitoring using computer vision — disease detection and health tracking, aimed at long-duration space missions. |
-| [**Hermes Flight Comm**](https://github.com/linerfan5114/hermes-flight-comm) | C | A prototype intercom system concept for EVA suits. |
-| [**Wandering Being**](https://github.com/linerfan5114/wandering-being) | Python | An experiment with spiking neural networks (~100K neurons, STDP) exploring predictive processing — a research toy, not a claim of consciousness. |
-
 *Some of these are early-stage or exploratory — check individual repos for current status and README details.*
 
 ---
